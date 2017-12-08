@@ -4,13 +4,12 @@
 ##### 最新截图
 
 #### 1
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2174.PNG" width = "30%" />
 
-#### 2
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2146.PNG" width = "30%" />
+![](https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2174.PNG)
 
-#### 3
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2147.PNG" width = "30%" />
+![](https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2146.PNG)
+
+![](https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2147.PNG)
 
 ### 运行效果
 
