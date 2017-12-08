@@ -1,16 +1,6 @@
 # 百思不得姐
 你觉得赞，请Star
 
-##### 最新截图
-
-#### 1
-
-![](https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2174.PNG)
-
-![](https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2146.PNG)
-
-![](https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2147.PNG)
-
 ### 运行效果
 
 ![](https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/1.gif)
@@ -116,37 +106,6 @@ pop
 }
 @end
 ```
-##### 截图
-#### 1
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2157.PNG" width = "60%" />
-
-#### 2
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2158.PNG" width = "60%" />
-
-#### 3
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2016.PNG" width = "60%" />
-
-#### 4
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2017.PNG" width = "60%" />
-
-#### 5
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2018.PNG" width = "60%" />
-
-#### 6
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2019.PNG" width = "60%" />
-
-#### 7
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2020.PNG" width = "60%" />
-
-#### 8
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2022.PNG" width = "60%" />
-
-#### 9
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2023.PNG" width = "60%" />
-
-#### 10
-<img src="https://github.com/KeenTeam1990/baisibudejie/blob/master/pic/IMG_2028.PNG" width = "60%" />
-
 ### 如果您喜欢本项目,请Star
 
 如果有不懂的地方可以加入QQ交流群讨论：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c9dc4ab0b2062e0004b3b2ed556da1ce898631742e15780297feb3465ad08eda">**812144991**</a>。这个QQ群讨论技术范围包括：iOS、H5混合开发、前端开发、PHP开发，欢迎大家讨论技术。
